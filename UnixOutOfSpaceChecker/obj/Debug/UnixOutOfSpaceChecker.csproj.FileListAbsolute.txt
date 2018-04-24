@@ -1,0 +1,5 @@
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\UnixOutOfSpaceChecker\UnixOutOfSpaceChecker\bin\Debug\UnixOutOfSpaceChecker.exe.config
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\UnixOutOfSpaceChecker\UnixOutOfSpaceChecker\bin\Debug\UnixOutOfSpaceChecker.exe
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\UnixOutOfSpaceChecker\UnixOutOfSpaceChecker\bin\Debug\UnixOutOfSpaceChecker.pdb
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\UnixOutOfSpaceChecker\UnixOutOfSpaceChecker\obj\Debug\UnixOutOfSpaceChecker.exe
+C:\Users\Zachary Burns\Documents\Visual Studio 2015\Projects\UnixOutOfSpaceChecker\UnixOutOfSpaceChecker\obj\Debug\UnixOutOfSpaceChecker.pdb
